@@ -5,8 +5,7 @@
 Using [Dudley Storey's pen](http://codepen.io/dudleystorey/pen/knqyK), I created a business card type site with social links and a background video.
 
 ##Other Resources
-[Font Awesome](https://fortawesome.github.io/Font-Awesome/)
-Use CDN: https://www.bootstrapcdn.com/fontawesome/
+[Font Awesome](https://fortawesome.github.io/Font-Awesome/) CDN: https://www.bootstrapcdn.com/fontawesome/
 
 ##Demo
 You can view a demo on my main site: [manuelvargas.me/dynamo](http://manuelvargas.me/dynamo)
