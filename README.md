@@ -1,6 +1,6 @@
 #Fullscreen Background Video w/ Social Icons
 ![Programming language](https://img.shields.io/badge/Languages-CSS & HTML-black.svg)
-![UELVVA](https://img.shields.io/badge/Version-v1.?-blue.svg)
+![Version](https://img.shields.io/badge/Version-v1.1-blue.svg)
 
 Using [Dudley Stoey's pen](http://codepen.io/dudleystorey/pen/knqyK), I created a business card type site with social links and an background video.
 
