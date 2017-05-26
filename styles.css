@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,500,700);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+a {
+  color: white;
+  text-decoration:none;
+}
+
+body {
+  background: #000;
+  color: white;
+  text-align: right;
+  font: 22px  Lato, sans-serif;
+  position: relative;
+  padding: 20px;
+  /*top: 5vw;*/
+}
+
+.title {
+	position: absolute;
+	right: 0;
+	left: 0;
+	padding: 5rem;
+	font-size: 50px;
+	text-align: center;
+}
+
+.fa {
+	padding: 12px;
+}
+
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translateX(-50%) translateY(-50%);
+    background: url('') no-repeat;
+    background-size: cover;
+    transition: 1s opacity;
+  
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+    filter: brightness(40%)
+}
