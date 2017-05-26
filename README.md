@@ -1,4 +1,4 @@
-![Programming language](https://img.shields.io/badge/Languages-CSS & HTML-black.svg)
+![Programming language](https://img.shields.io/badge/Languages-CSS-orange.svg)
 ![Version](https://img.shields.io/badge/Version-1.2-blue.svg)
 
 # Fullscreen Background Video w/ Social Icons
